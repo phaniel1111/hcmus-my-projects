@@ -1,0 +1,52 @@
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\bin\Debug\Nhom12_lab4.exe.config
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\bin\Debug\Nhom12_lab4.exe
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\bin\Debug\Nhom12_lab4.pdb
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.AssemblyReference.cache
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.LogIn.resources
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.Properties.Resources.resources
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.GenerateResource.cache
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.CoreCompileInputs.cache
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.exe
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.pdb
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.MainPage.resources
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.Diem.resources
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.Lop.resources
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.NhanVien.resources
+C:\Users\pthie\Desktop\23\Data security\lab4\Nhom12_lab4\Nhom12_lab4\obj\Debug\Nhom12_lab4.SinhVien.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.AssemblyReference.cache
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.Diem.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.LogIn.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.Lop.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.MainPage.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.NhanVien.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.Properties.Resources.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.SinhVien.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.GenerateResource.cache
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.CoreCompileInputs.cache
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.exe
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.pdb
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\bin\Debug\Nhom12_lab4.exe.config
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\bin\Debug\Nhom12_lab4.exe
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\bin\Debug\Nhom12_lab4.pdb
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.AddClass.resources
+C:\Users\pthie\Desktop\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.AddStudent.resources
+D:\Nhom12\Nhom12_lab4\bin\Debug\Nhom12_lab4.exe.config
+D:\Nhom12\Nhom12_lab4\bin\Debug\Nhom12_lab4.exe
+D:\Nhom12\Nhom12_lab4\bin\Debug\Nhom12_lab4.pdb
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.AssemblyReference.cache
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.SuggestedBindingRedirects.cache
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.AddClass.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.AddStudent.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.Diem.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.LogIn.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.Lop.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.MainPage.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.NhanVien.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.Properties.Resources.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.SinhVien.resources
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.GenerateResource.cache
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.csproj.CoreCompileInputs.cache
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.exe
+D:\Nhom12\Nhom12_lab4\obj\Debug\Nhom12_lab4.pdb

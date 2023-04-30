@@ -1,0 +1,12 @@
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\bin\Debug\20120313_lab4.exe.config
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\bin\Debug\20120313_lab4.exe
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\bin\Debug\20120313_lab4.pdb
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\20120313_lab4.csproj.AssemblyReference.cache
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\20120313_lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\_20120313_lab4.Properties.Resources.resources
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\20120313_lab4.csproj.GenerateResource.cache
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\20120313_lab4.csproj.CoreCompileInputs.cache
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\20120313_lab4.exe
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\20120313_lab4.pdb
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\lab2DS.LogIn.resources
+C:\Users\pthie\Desktop\23\Data security\lab4\20120313_lab4\20120313_lab4\obj\Debug\_20120313_lab4.NVList.resources

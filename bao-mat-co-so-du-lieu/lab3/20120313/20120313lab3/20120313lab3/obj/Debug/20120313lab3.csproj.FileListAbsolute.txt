@@ -1,0 +1,10 @@
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\bin\Debug\20120313lab3.exe.config
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\bin\Debug\20120313lab3.exe
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\bin\Debug\20120313lab3.pdb
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\obj\Debug\20120313lab3.csproj.AssemblyReference.cache
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\obj\Debug\20120313lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\obj\Debug\_20120313lab3.Properties.Resources.resources
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\obj\Debug\20120313lab3.csproj.GenerateResource.cache
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\obj\Debug\20120313lab3.csproj.CoreCompileInputs.cache
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\obj\Debug\20120313lab3.exe
+C:\Users\pthie\Desktop\23\Data security\lab2\20120313lab3\20120313lab3\obj\Debug\20120313lab3.pdb

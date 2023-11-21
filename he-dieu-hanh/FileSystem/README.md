@@ -5,6 +5,9 @@ Hệ thông Tập tin là đồ án giữa kì cho môn Hệ Điều hành ở t
 
 Dành cho mục đích tham khảo, hãy trích dẫn nguồn và vui lòng liên hệ ptkiet0135@gmail.com
 
+---
+### NOTE:
+Có phiên bản được cải thiện hơn ở môn An toàn và Phục hồi dữ liệu
 
 ---
 ## Reference

@@ -7,7 +7,7 @@ Dành cho mục đích tham khảo, hãy trích dẫn nguồn và vui lòng liê
 
 ---
 ### NOTE:
-Có phiên bản được cải thiện hơn ở môn An toàn và Phục hồi dữ liệu
+Có phiên bản được cải thiện hơn ở môn [An toàn và Phục hồi dữ liệu](https://github.com/phaniel1111/FileSystem)
 
 ---
 ## Reference

@@ -5,10 +5,10 @@
 3. Nhập môn mã hóa bảo mật
 4. Nhập môn trí tuệ nhân tạo
 ### Năm 3 kì 1
-1. Khai thác dữ liệu
+1. Khai thác dữ liệu (Không được public)
 2. Bảo mật cơ sở dữ liệu
 3. Quy hoạch tuyến tính (Không có đồ án)
-4. Nhập môn học máy (Giảng viên không cho đăng)
+4. Nhập môn học máy (Không được public)
 5. [Nhập môn công nghệ phần mềm](https://github.com/phaniel1111/student-tracker)
 ### Năm 4 kì 1
 1. Blockchain và ứng dụng

@@ -1,6 +1,6 @@
 # hcmus-my-projects
 ### Năm 3 kì 1
-1. Hệ điều hành
+1. Hệ điều hành [File System](https://github.com/phaniel1111/FileSystem), [File Manager](https://github.com/phaniel1111/FileManager)
 2. Mạng máy tính
 3. Nhập môn mã hóa bảo mật
 4. Nhập môn trí tuệ nhân tạo
@@ -11,7 +11,7 @@
 4. Nhập môn học máy (Không được public)
 5. [Nhập môn công nghệ phần mềm](https://github.com/phaniel1111/student-tracker)
 ### Năm 4 kì 1
-1. Blockchain và ứng dụng
+1. [Blockchain và ứng dụng](https://github.com/phaniel1111/Proposal-Dapp)
 2. An ninh máy tính
 3. An toàn và phục hồi dữ liệu
 
